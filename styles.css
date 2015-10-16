@@ -2,5 +2,9 @@ body
 {
     background-repeat: repeat-y;
     background-image: url("resource.jpg"); /*Will change icon later in the future for /s/programming*/
-    background-color: black;
+    /*background-color: black;*/
 } 
+
+.layout-header{
+    color: green;
+}
